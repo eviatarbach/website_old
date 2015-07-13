@@ -1,0 +1,24 @@
+---
+layout: post
+title: Takuzu
+---
+
+Takuzu is a logic puzzle in which the set of solutions consist of \\(2n \times 2n, n\in \mathbb{Z}^+\\) binary matrices, where the sum of each row and column is \\(n\\) (equal number of \\(0\\)s and \\(1\\)s in every row and column), with no three adjacent \\(0\\)s or \\(1\\)s in any row or column, and no repeated row or columns. An upper bound for the number of valid Takuzu boards for a given \\(n\\) can be determined with the [OEIS sequence A050974](http://oeis.org/A050974), although in reality it will be far less.
+
+An example of an unsolved Takuzu board is the following (blanks represent unknowns)
+
+\\[\begin{pmatrix} & 1 & & 0\\\
+                  &  & 0 & \\\
+                  & 0 &  & \\\
+                 1 & 1 &  & 0\end{pmatrix}\\]
+
+The solution is
+
+\\[\begin{pmatrix}0 & 1 & 1 & 0\\\
+                  1 & 0 & 0 & 1\\\
+                  0 & 0 & 1 & 1\\\
+                  1 & 1 & 0 & 0\end{pmatrix}\\]
+
+I implemented the following programmatic solution using Google's constraint solver (also posted [here](http://code.activestate.com/recipes/578414-takuzu-solver/)):
+
+{% gist 8667fa1b5ae43c6ab4ea %}
