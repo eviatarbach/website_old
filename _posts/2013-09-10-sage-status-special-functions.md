@@ -78,8 +78,7 @@ The Digital Library of Mathematical Functions has a [Software Index](http://dlmf
         <td>\(\mathrm{erfc}\) is not yet implemented for complex numbers.</td>
     </tr>
     <tr>
-    <tyle="background-color:lightblue">Blue: Patch implementing it is av│      Regenerating: 1 file(s) changed at 2015-07-12 19:41:39 ...done in
-d style="background-color:orange">&sect;7.25(iv) \(\mathop{C}\nolimits\!\left(x\right), \mathop{S}\nolimits\!\left(x\right), \mathop{\mathrm{f}}\nolimits\!\left(x\right), \mathop{\mathrm{g}}\nolimits\!\left(x\right), x\in\mathbb{R}\)</td>
+    <td style="background-color:orange">&sect;7.25(iv) \(\mathop{C}\nolimits\!\left(x\right), \mathop{S}\nolimits\!\left(x\right), \mathop{\mathrm{f}}\nolimits\!\left(x\right), \mathop{\mathrm{g}}\nolimits\!\left(x\right), x\in\mathbb{R}\)</td>
         <td></td>
     </tr>
     <tr>

@@ -7,12 +7,12 @@ relative_permalinks: true
 # Setup
 title:               Eviatar Bach
 tagline:             
-url:                 
-paginate:            1
-baseurl:             ""
+#url:                 "http://www.phas.ubc.ca/~eviatarb"
+#baseurl:             "http://www.phas.ubc.ca/~eviatarb"
 markdown:            kramdown
 kramdown:
       parse_block_html: true
+      smart_quotes: ["apos", "apos", "quot", "quot"]
 
 # Assets
 #
