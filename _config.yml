@@ -7,7 +7,7 @@ title:               Eviatar Bach
 tagline:             
 #url:                 "http://www.phas.ubc.ca/~eviatarb"
 #baseurl:             "http://www.phas.ubc.ca/~eviatarb"
-markdown:            kramdown
+markdown:            maruku
 kramdown:
       parse_block_html: true
       smart_quotes: ["apos", "apos", "quot", "quot"]
