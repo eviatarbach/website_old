@@ -10,7 +10,7 @@ with \\(x\\) and the coefficients \\(c_i\\) real, and the exponents \\(\big\{\fr
 
 Root-finding of nonlinear equations is not always easy, especially when we want all the roots, and a bounded domain on which they occur is unknown. Fortunately, in this case we can make a substitution to transform the function into a polynomial, for which there exist algorithms to find all the roots. I have not found a description of this elsewhere, so I thought I would make a post about it.
 
-Let \\(l=\operatorname{lcm}\{d_i\}\\) and \\(g=\gcd\{n_i\}\\). Then, \\(f\left(y^{\frac{l}{g}}\right)\\) is a polynomial in \\(y\\), since all the \\(\{d_i\}\\) are factors of \\(l\\) and all the \\(\{n_i\}\\) are multiples of \\(g\\). The roots of this polynomial, \\(\{y^\*_i\}\\), can then be found numerically using polynomial root-finding routines. Transforming back, the roots of \\(f(x)\\) will be \\(\left\{ {y^\*_i}^{\frac{l}{g}}\right\}\\).
+Let \\(l=\operatorname{lcm}\\{d_i\\}\\) and \\(g=\gcd\{n_i\}\\). Then, \\(f\left(y^{\frac{l}{g}}\right)\\) is a polynomial in \\(y\\), since all the \\(\{d_i\}\\) are factors of \\(l\\) and all the \\(\{n_i\}\\) are multiples of \\(g\\). The roots of this polynomial, \\(\{y^\*_i\}\\), can then be found numerically using polynomial root-finding routines. Transforming back, the roots of \\(f(x)\\) will be \\(\left\{ {y^\*_i}^{\frac{l}{g}}\right\}\\).
 
 I may later post some details on efficiency, applicability, etc.
 
