@@ -34,6 +34,8 @@ Calibre
 ## LaTeX
 
 * Metropolis beamer template
+* siunitx
+* minted
 
 ## Text editor
 
@@ -63,3 +65,7 @@ Mega
 ## RSS reader
 
 * NewsBlur
+
+## Image viewer
+
+* gthumb
