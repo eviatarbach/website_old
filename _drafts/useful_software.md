@@ -64,8 +64,12 @@ Mega
 
 ## RSS reader
 
-* NewsBlur
+NewsBlur
 
 ## Image viewer
 
-* gthumb
+gthumb
+
+## Email
+
+ProtonMail
