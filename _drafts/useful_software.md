@@ -73,3 +73,7 @@ gthumb
 ## Email
 
 ProtonMail
+
+## Graphical diff
+
+Meld
