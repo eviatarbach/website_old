@@ -7,7 +7,9 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 
 ## Selected
 
-**Bach, Eviatar**, Valentina Radić, and Christian Schoof. “How sensitive are mountain glaciers to climate change? Insights from a block model.” *Journal of Glaciology*, March 2018, 1–12. [https://doi.org/10.1017/jog.2018.15](https://doi.org/10.1017/jog.2018.15).
+Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel Kirk-Davidoff, **Eviatar Bach**, and Ning Zeng. “Climate model shows large-scale wind and solar farms in the Sahara increase rain and vegetation.” *Science*, September 2018. [https://doi.org/10.1126/science.aar5629](https://doi.org/10.1126/science.aar5629).
+
+**Bach, Eviatar**, Valentina Radić, and Christian Schoof. “How sensitive are mountain glaciers to climate change? Insights from a block model.” *Journal of Glaciology*, April 2018, 247–258. [https://doi.org/10.1017/jog.2018.15](https://doi.org/10.1017/jog.2018.15).
 
 [Full text](assets/how_sensitive_are_mountain_glaciers_to_climate_change_insights_from_a_block_model.pdf) • [Code](https://github.com/eviatarbach/glaciers)
 
