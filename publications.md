@@ -11,6 +11,8 @@ Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel K
 
 [Full text](http://science.sciencemag.org/content/sci/361/6406/1019.full.pdf?ijkey=frvIs8neJ0bx.&keytype=ref&siteid=sci)
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="47876871" />
+
 **Bach, Eviatar**, Valentina Radić, and Christian Schoof. “How sensitive are mountain glaciers to climate change? Insights from a block model.” *Journal of Glaciology*, April 2018, 247–258. [https://doi.org/10.1017/jog.2018.15](https://doi.org/10.1017/jog.2018.15).
 
 [Full text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/28BA3694D360B9CDE899703750C84900/S0022143018000151a.pdf/how_sensitive_are_mountain_glaciers_to_climate_change_insights_from_a_block_model.pdf)
