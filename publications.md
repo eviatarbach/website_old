@@ -9,6 +9,8 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 
 Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da, Luyu Sun, and Takuma Yoshida. “Strongly coupled data assimilation in multiscale media: experiments using a quasi‐geostrophic coupled model.”  *Journal of Advances in Modeling Earth Systems*, 2019. [https://doi.org/10.1029/2019MS001652](https://doi.org/10.1029/2019MS001652).
 
+[Full text](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019MS001652)
+
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="47876871" />
 
 Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel Kirk-Davidoff, **Eviatar Bach**, and Ning Zeng. “Climate model shows large-scale wind and solar farms in the Sahara increase rain and vegetation.” *Science*, September 2018. [https://doi.org/10.1126/science.aar5629](https://doi.org/10.1126/science.aar5629).
