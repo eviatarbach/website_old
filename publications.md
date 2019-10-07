@@ -7,6 +7,10 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 
 ## Selected
 
+**Bach, Eviatar**, Safa Motesharrei, Eugenia Kalnay, and Alfredo Ruiz-Barradas. “Local Atmosphere–Ocean Predictability: Dynamical Origins, Lead Times, and Seasonality.” *Journal of Climate*, 2019. [https://doi.org/10.1175/JCLI-D-18-0817.1](https://doi.org/10.1175/JCLI-D-18-0817.1).
+
+[Full text](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-18-0817.1)
+
 Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da, Luyu Sun, and Takuma Yoshida. “Strongly coupled data assimilation in multiscale media: experiments using a quasi‐geostrophic coupled model.”  *Journal of Advances in Modeling Earth Systems*, 2019. [https://doi.org/10.1029/2019MS001652](https://doi.org/10.1029/2019MS001652).
 
 [Full text](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019MS001652)
