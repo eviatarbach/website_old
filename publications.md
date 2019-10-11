@@ -7,9 +7,13 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 
 ## Selected
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64616051" />
+
 **Bach, Eviatar**, Safa Motesharrei, Eugenia Kalnay, and Alfredo Ruiz-Barradas. “Local Atmosphere–Ocean Predictability: Dynamical Origins, Lead Times, and Seasonality.” *Journal of Climate*, 2019. [https://doi.org/10.1175/JCLI-D-18-0817.1](https://doi.org/10.1175/JCLI-D-18-0817.1).
 
 [Full text](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-18-0817.1)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="61535555" />
 
 Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da, Luyu Sun, and Takuma Yoshida. “Strongly coupled data assimilation in multiscale media: experiments using a quasi‐geostrophic coupled model.”  *Journal of Advances in Modeling Earth Systems*, 2019. [https://doi.org/10.1029/2019MS001652](https://doi.org/10.1029/2019MS001652).
 
@@ -20,6 +24,8 @@ Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da,
 Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel Kirk-Davidoff, **Eviatar Bach**, and Ning Zeng. “Climate model shows large-scale wind and solar farms in the Sahara increase rain and vegetation.” *Science*, September 2018. [https://doi.org/10.1126/science.aar5629](https://doi.org/10.1126/science.aar5629).
 
 [Full text](http://science.sciencemag.org/content/sci/361/6406/1019.full.pdf?ijkey=frvIs8neJ0bx.&keytype=ref&siteid=sci)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="34137384" />
 
 **Bach, Eviatar**, Valentina Radić, and Christian Schoof. “How sensitive are mountain glaciers to climate change? Insights from a block model.” *Journal of Glaciology*, April 2018, 247–258. [https://doi.org/10.1017/jog.2018.15](https://doi.org/10.1017/jog.2018.15).
 
