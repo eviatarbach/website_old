@@ -13,17 +13,31 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 
 [Full text](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-18-0817.1) • [Press release](https://umdrightnow.umd.edu/news/new-statistical-method-delivers-first-comprehensive-global-picture-mutual-prediction-atmosphere)
 
+6th most read article in the *Journal of Climate* in the period 2 December 2018 – 2 December 2019
+
+<hr>
+
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="61535555" />
 
 Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da, Luyu Sun, and Takuma Yoshida. “Strongly coupled data assimilation in multiscale media: experiments using a quasi‐geostrophic coupled model.”  *Journal of Advances in Modeling Earth Systems*, 2019. [https://doi.org/10.1029/2019MS001652](https://doi.org/10.1029/2019MS001652).
 
 [Full text](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019MS001652)
 
+Featured in the WCRP's [SPARC science update](https://www.sparc-climate.org/2019/06/11/sparc-science-update-4-june-10-june/)
+
+<hr>
+
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="47876871" />
 
 Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel Kirk-Davidoff, **Eviatar Bach**, and Ning Zeng. “Climate model shows large-scale wind and solar farms in the Sahara increase rain and vegetation.” *Science*, September 2018. [https://doi.org/10.1126/science.aar5629](https://doi.org/10.1126/science.aar5629).
 
 [Full text](http://science.sciencemag.org/content/sci/361/6406/1019.full.pdf?ijkey=frvIs8neJ0bx.&keytype=ref&siteid=sci) • [Press release](https://umdrightnow.umd.edu/news/large-scale-wind-and-solar-farms-sahara-would-increase-rain-and-vegetation)
+
+[Most-blogged about article of September 2018, according to Altmetric](https://www.altmetric.com/blog/september-high-five-top-of-the-blogs/)
+
+[79th top article on Altmetric in 2018](https://www.altmetric.com/top100/2018/)
+
+<hr>
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="34137384" />
 
@@ -35,7 +49,7 @@ Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel K
 
 **Bach, Eviatar**, Eran A. Raizman, Rich Vanderwal, Paolete Soto, Marcelo Chaffer, Greg Keefe, Roman Pogranichniy, and Horacio Bach. “Immunogenicity of PtpA secreted during *Mycobacterium avium* ssp. *paratuberculosis* infection in cattle.” *Veterinary Immunology and Immunopathology* 198 (April 1, 2018): 1–5. [https://doi.org/10.1016/j.vetimm.2018.02.006](https://doi.org/10.1016/j.vetimm.2018.02.006).
 
-Bach, Horacio, Melissa Richard-Greenblatt, **Eviatar Bach**, Marcelo Chaffer, Wanika Lai, Greg Keefe, and Douglas J. Begg. “Protein Kinase G Induces an Immune Response in Cows Exposed to *Mycobacterium avium* Subsp. *paratuberculosis*.” *BioMed Research International*, 2018. [https://doi.org/10.1155/2018/1450828](https://doi.org/10.1155/2018/1450828).
+Bach, Horacio, Melissa Richard-Greenblatt, **Eviatar Bach**, Marcelo Chaffer, Wanika Lai, Greg Keefe, and Douglas J. Begg. “Protein Kinase G Induces an Immune Response in Cows Exposed to *Mycobacterium avium* Subsp. *paratuberculosis*.” *BioMed Research International*, 2018. [https://doi.org/10.1155/2018/1450828](https://doi.org/10.1155/2018/1450828). 
 
 [Full text](assets/1450828.pdf)
 
