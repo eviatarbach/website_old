@@ -16,7 +16,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 6th most read article in the *Journal of Climate* in the period 2 December 2018 – 2 December 2019
 
 <hr>
-<img src="/assets/lyapunov.jpg" height="150" />
+![](/assets/lyapunov.jpg){:height="150px"}
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="61535555" />
 
 Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da, Luyu Sun, and Takuma Yoshida. “Strongly coupled data assimilation in multiscale media: experiments using a quasi‐geostrophic coupled model.”  *Journal of Advances in Modeling Earth Systems*, 2019. [https://doi.org/10.1029/2019MS001652](https://doi.org/10.1029/2019MS001652).
@@ -26,7 +26,7 @@ Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da,
 Featured in the WCRP's [SPARC science update](https://www.sparc-climate.org/2019/06/11/sparc-science-update-4-june-10-june/)
 
 <hr>
-<img src="/assets/precip_relative.png" height="150" />
+![](/assets/precip_relative.png){:height="150px"}
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="47876871" />
 
 Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel Kirk-Davidoff, **Eviatar Bach**, and Ning Zeng. “Climate model shows large-scale wind and solar farms in the Sahara increase rain and vegetation.” *Science*, September 2018. [https://doi.org/10.1126/science.aar5629](https://doi.org/10.1126/science.aar5629).
@@ -38,7 +38,7 @@ Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel K
 [79th top article on Altmetric in 2018](https://www.altmetric.com/top100/2018/)
 
 <hr>
-<img src="/assets/glacier.jpg" height="150" />
+![](/assets/glacier.jpg){:height="150px"}
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="34137384" />
 
 **Bach, Eviatar**, Valentina Radić, and Christian Schoof. “How sensitive are mountain glaciers to climate change? Insights from a block model.” *Journal of Glaciology*, April 2018, 247–258. [https://doi.org/10.1017/jog.2018.15](https://doi.org/10.1017/jog.2018.15).
