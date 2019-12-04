@@ -8,9 +8,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 ## Selected
 ![](/assets/predictability.png){:height="150px"}
 
-**Bach, Eviatar**, Safa Motesharrei, Eugenia Kalnay, and Alfredo Ruiz-Barradas. “Local Atmosphere–Ocean Predictability: Dynamical Origins, Lead Times, and Seasonality.” *Journal of Climate*, 2019. [https://doi.org/10.1175/JCLI-D-18-0817.1](https://doi.org/10.1175/JCLI-D-18-0817.1).
-
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64616051" style="text-align:right" />
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64616051" style="text-align:right" />**Bach, Eviatar**, Safa Motesharrei, Eugenia Kalnay, and Alfredo Ruiz-Barradas. “Local Atmosphere–Ocean Predictability: Dynamical Origins, Lead Times, and Seasonality.” *Journal of Climate*, 2019. [https://doi.org/10.1175/JCLI-D-18-0817.1](https://doi.org/10.1175/JCLI-D-18-0817.1).
 
 [Full text](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-18-0817.1) • [Press release](https://umdrightnow.umd.edu/news/new-statistical-method-delivers-first-comprehensive-global-picture-mutual-prediction-atmosphere)
 
