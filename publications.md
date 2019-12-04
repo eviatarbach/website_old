@@ -7,6 +7,7 @@ title: Publications
 See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAAAAJ) and [ORCID](https://orcid.org/0000-0002-9725-0203).
 
 ## Selected
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ![](/assets/predictability.png){:height="150px"}
 **Bach, Eviatar**, Safa Motesharrei, Eugenia Kalnay, and Alfredo Ruiz-Barradas. “Local Atmosphere–Ocean Predictability: Dynamical Origins, Lead Times, and Seasonality.” *Journal of Climate*, 2019. [https://doi.org/10.1175/JCLI-D-18-0817.1](https://doi.org/10.1175/JCLI-D-18-0817.1).
 
@@ -23,7 +24,7 @@ Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da,
 
 Featured in the WCRP's [SPARC science update](https://www.sparc-climate.org/2019/06/11/sparc-science-update-4-june-10-june/)
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="61535555" />
-<hr>
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ![](/assets/precip_relative.png){:height="150px"}
 
 Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel Kirk-Davidoff, **Eviatar Bach**, and Ning Zeng. “Climate model shows large-scale wind and solar farms in the Sahara increase rain and vegetation.” *Science*, September 2018. [https://doi.org/10.1126/science.aar5629](https://doi.org/10.1126/science.aar5629).
@@ -34,7 +35,7 @@ Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel K
 
 [79th top article on Altmetric in 2018](https://www.altmetric.com/top100/2018/)
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="47876871" />
-<hr>
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ![](/assets/glacier.jpg){:height="150px"}
 
 **Bach, Eviatar**, Valentina Radić, and Christian Schoof. “How sensitive are mountain glaciers to climate change? Insights from a block model.” *Journal of Glaciology*, April 2018, 247–258. [https://doi.org/10.1017/jog.2018.15](https://doi.org/10.1017/jog.2018.15).
@@ -43,6 +44,7 @@ Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel K
 
 [Selected glaciology article for the period 2015–2019, Canadian National Committee for the International Union of Geodesy and Geophysics](http://cgu-ugc.ca/cguwp/wp-content/media/CNC-IUGG-2019-Quad-Report-complete.pdf)
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="34137384" />
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ## Other
 
 **Bach, Eviatar**, Eran A. Raizman, Rich Vanderwal, Paolete Soto, Marcelo Chaffer, Greg Keefe, Roman Pogranichniy, and Horacio Bach. “Immunogenicity of PtpA secreted during *Mycobacterium avium* ssp. *paratuberculosis* infection in cattle.” *Veterinary Immunology and Immunopathology* 198 (April 1, 2018): 1–5. [https://doi.org/10.1016/j.vetimm.2018.02.006](https://doi.org/10.1016/j.vetimm.2018.02.006).
