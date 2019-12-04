@@ -14,7 +14,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 
 6th most read article in the *Journal of Climate* in the period 2 December 2018 – 2 December 2019
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64616051" />
-<hr style="height:10px">
+<hr style="height:20px">
 ![](/assets/lyapunov.jpg){:height="150px"}
 
 Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da, Luyu Sun, and Takuma Yoshida. “Strongly coupled data assimilation in multiscale media: experiments using a quasi‐geostrophic coupled model.”  *Journal of Advances in Modeling Earth Systems*, 2019. [https://doi.org/10.1029/2019MS001652](https://doi.org/10.1029/2019MS001652).
