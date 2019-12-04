@@ -34,11 +34,12 @@ Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel K
 Most-blogged about article of September 2018, [according to Altmetric](https://www.altmetric.com/blog/september-high-five-top-of-the-blogs/)
 
 [79th top article on Altmetric in 2018](https://www.altmetric.com/top100/2018/)
+
+Featured by the [Mediterranean Association of National Agencies for Energy Management (MEDENER)](https://www.medener.org/en/medener-has-selected-an-article-for-you/)
+
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="47876871" />
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ![](/assets/glacier.jpg){:height="150px"}
-
-Featured by the [Mediterranean Association of National Agencies for Energy Management (MEDENER)](https://www.medener.org/en/medener-has-selected-an-article-for-you/)
 
 **Bach, Eviatar**, Valentina Radić, and Christian Schoof. “How sensitive are mountain glaciers to climate change? Insights from a block model.” *Journal of Glaciology*, April 2018, 247–258. [https://doi.org/10.1017/jog.2018.15](https://doi.org/10.1017/jog.2018.15).
 
