@@ -2,20 +2,20 @@
 layout: page
 title: Publications
 ---
- 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAAAAJ) and [ORCID](https://orcid.org/0000-0002-9725-0203).
 
 ## Selected
 ![](/assets/predictability.png){:height="150px"}
+**Bach, Eviatar**, Safa Motesharrei, Eugenia Kalnay, and Alfredo Ruiz-Barradas. “Local Atmosphere–Ocean Predictability: Dynamical Origins, Lead Times, and Seasonality.” *Journal of Climate*, 2019. [https://doi.org/10.1175/JCLI-D-18-0817.1](https://doi.org/10.1175/JCLI-D-18-0817.1).
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64616051" style="text-align:right" />**Bach, Eviatar**, Safa Motesharrei, Eugenia Kalnay, and Alfredo Ruiz-Barradas. “Local Atmosphere–Ocean Predictability: Dynamical Origins, Lead Times, and Seasonality.” *Journal of Climate*, 2019. [https://doi.org/10.1175/JCLI-D-18-0817.1](https://doi.org/10.1175/JCLI-D-18-0817.1).
-
-[Full text](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-18-0817.1) • [Press release](https://umdrightnow.umd.edu/news/new-statistical-method-delivers-first-comprehensive-global-picture-mutual-prediction-atmosphere)
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64616051" style="text-align:right" />[Full text](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-18-0817.1) • [Press release](https://umdrightnow.umd.edu/news/new-statistical-method-delivers-first-comprehensive-global-picture-mutual-prediction-atmosphere)
 
 6th most read article in the *Journal of Climate* in the period 2 December 2018 – 2 December 2019
 
 <hr>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="61535555" />
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="61535555" />
 
 ![](/assets/lyapunov.jpg){:height="150px"}
 
@@ -26,7 +26,7 @@ Penny, Stephen G., **Eviatar Bach**, Kriti Bhargava, Chu‐Chun Chang, Cheng Da,
 Featured in the WCRP's [SPARC science update](https://www.sparc-climate.org/2019/06/11/sparc-science-update-4-june-10-june/)
 
 <hr>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="47876871" />
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="47876871" />
 
 ![](/assets/precip_relative.png){:height="150px"}
 
@@ -39,7 +39,7 @@ Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel K
 [79th top article on Altmetric in 2018](https://www.altmetric.com/top100/2018/)
 
 <hr>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="34137384" />
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="34137384" />
 
 ![](/assets/glacier.jpg){:height="150px"}
 
