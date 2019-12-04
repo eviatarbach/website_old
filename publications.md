@@ -45,6 +45,8 @@ Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel K
 
 [Full text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/28BA3694D360B9CDE899703750C84900/S0022143018000151a.pdf/how_sensitive_are_mountain_glaciers_to_climate_change_insights_from_a_block_model.pdf)
 
+[Selected glaciology article for the period 2015–2019, Canadian National Committee for the International Union of Geodesy and Geophysics](http://cgu-ugc.ca/cguwp/wp-content/media/CNC-IUGG-2019-Quad-Report-complete.pdf)
+
 ## Other
 
 **Bach, Eviatar**, Eran A. Raizman, Rich Vanderwal, Paolete Soto, Marcelo Chaffer, Greg Keefe, Roman Pogranichniy, and Horacio Bach. “Immunogenicity of PtpA secreted during *Mycobacterium avium* ssp. *paratuberculosis* infection in cattle.” *Veterinary Immunology and Immunopathology* 198 (April 1, 2018): 1–5. [https://doi.org/10.1016/j.vetimm.2018.02.006](https://doi.org/10.1016/j.vetimm.2018.02.006).
