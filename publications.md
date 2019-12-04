@@ -6,7 +6,7 @@ title: Publications
 See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAAAAJ) and [ORCID](https://orcid.org/0000-0002-9725-0203).
 
 ## Selected
-<img src="/assets/predictability.png" height="150" />
+![](/assets/predictability.png){:height="150px"}
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64616051" />
 
 **Bach, Eviatar**, Safa Motesharrei, Eugenia Kalnay, and Alfredo Ruiz-Barradas. “Local Atmosphere–Ocean Predictability: Dynamical Origins, Lead Times, and Seasonality.” *Journal of Climate*, 2019. [https://doi.org/10.1175/JCLI-D-18-0817.1](https://doi.org/10.1175/JCLI-D-18-0817.1).
