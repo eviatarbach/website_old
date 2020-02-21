@@ -2,8 +2,7 @@
 layout: page
 title: About
 ---
-![Eviatar Bach](/assets/headshot.JPG){:width="100px" .align-right}
-
+![Eviatar Bach](/assets/headshot.JPG){:width="200px" .align-right}
 I am a PhD student at the University of Maryland, College Park in the <a href="https://www.atmos.umd.edu/">Department of Atmospheric and Oceanic Science</a>, under the supervision of <a href="http://www.atmos.umd.edu/~ekalnay/">Eugenia Kalnay</a>. Prior to this I was an undergraduate student at the University of British Columbia, studying computer science, physics, and mathematics.
 
 My research interests include dynamical systems, data assimilation, climate dynamics, and machine learning.
