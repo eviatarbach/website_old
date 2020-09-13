@@ -13,7 +13,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 
 [Full text](https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-18-0817.1) • [Press release](https://umdrightnow.umd.edu/news/new-statistical-method-delivers-first-comprehensive-global-picture-mutual-prediction-atmosphere)
 
-6th most read article in the *Journal of Climate* in the period 2 December 2018 – 2 December 2019
+3rd most read article in the *Journal of Climate* in the period 5 June 2019 – 5 June 2020
 
 Featured by the [Northwestern Pacific Ocean Circulation and Climate Experiment](http://npoce.org.cn/newsItem.aspx?id=153)
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64616051" />
@@ -33,9 +33,13 @@ Li, Yan, Eugenia Kalnay, Safa Motesharrei, Jorge Rivas, Fred Kucharski, Daniel K
 
 [Full text](http://science.sciencemag.org/content/sci/361/6406/1019.full.pdf?ijkey=frvIs8neJ0bx.&keytype=ref&siteid=sci) • [Press release](https://umdrightnow.umd.edu/news/large-scale-wind-and-solar-farms-sahara-would-increase-rain-and-vegetation)
 
-Most-blogged about article of September 2018, [according to Altmetric](https://www.altmetric.com/blog/september-high-five-top-of-the-blogs/)
+14th top Earth science article on Altmetric in 2018, [79th of all articles in 2018](https://www.altmetric.com/top100/2018/), [most-blogged about article of September 2018](https://www.altmetric.com/blog/september-high-five-top-of-the-blogs/)
 
-[79th top article on Altmetric in 2018](https://www.altmetric.com/top100/2018/)
+10th climate paper most featured in the media in 2018, according to Carbon Brief
+
+Cited in IPCC Special Report on Climate Change and Land
+
+Written about by the BBC, *Los Angeles Times*, *Popular Science*, and other international media
 
 Featured by the [Mediterranean Association of National Agencies for Energy Management (MEDENER)](https://www.medener.org/en/medener-has-selected-an-article-for-you/)
 
@@ -46,6 +50,8 @@ Featured by the [Mediterranean Association of National Agencies for Energy Manag
 **Bach, Eviatar**, Valentina Radić, and Christian Schoof. “How sensitive are mountain glaciers to climate change? Insights from a block model.” *Journal of Glaciology*, April 2018, 247–258. [https://doi.org/10.1017/jog.2018.15](https://doi.org/10.1017/jog.2018.15).
 
 [Full text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/28BA3694D360B9CDE899703750C84900/S0022143018000151a.pdf/how_sensitive_are_mountain_glaciers_to_climate_change_insights_from_a_block_model.pdf)
+
+Shortlisted for [2020 IACS-IGS Graham Cogley Award](https://www.cambridge.org/core/journals/journal-of-glaciology/2020-graham-cogley-award), for papers published by early career scientists in the *Journal of Glaciology* or *Annals of Glaciology*.
 
 [Selected glaciology article for the period 2015–2019, Canadian National Committee for the International Union of Geodesy and Geophysics](http://cgu-ugc.ca/cguwp/wp-content/media/CNC-IUGG-2019-Quad-Report-complete.pdf)
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="34137384" />
