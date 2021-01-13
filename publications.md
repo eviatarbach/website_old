@@ -8,6 +8,9 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 
 ## Selected
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+**Bach, Eviatar**. “parasweep: A template-based utility for generating, dispatching, and post-processing of parameter sweeps.” *SoftwareX*, 2021. [https://doi.org/10.1016/j.softx.2020.100631](https://doi.org/10.1016/j.softx.2020.100631).
+
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ![](/assets/predictability.png){:height="150px"}
 **Bach, Eviatar**, Safa Motesharrei, Eugenia Kalnay, and Alfredo Ruiz-Barradas. “Local Atmosphere–Ocean Predictability: Dynamical Origins, Lead Times, and Seasonality.” *Journal of Climate*, 2019. [https://doi.org/10.1175/JCLI-D-18-0817.1](https://doi.org/10.1175/JCLI-D-18-0817.1).
 
