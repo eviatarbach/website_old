@@ -61,7 +61,7 @@ Shortlisted for [2020 IACS-IGS Graham Cogley Award](https://www.cambridge.org/co
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ## Other
 
-Da, Cheng, Kriti Bhargava, Chu-Chun Chang, **Eviatar Bach**, Eugenia Kalnay, Travis Sluka, Sreenivas Pentakota, Sagar V. Gade, and Suryachandra A. Rao. “Advances in Coupled Data Assimilation, Ensemble Forecasting, and Assimilation of Altimeter Observations.” *CLIVAR Exchanges* 79 (November 2020): 27–30. [https://doi.org/10.36071/clivar.79.2020](https://doi.org/10.36071/clivar.79.2020)
+Sreenivas Pentakota, Sagar V. Gade, Suryachandra A. Rao, Cheng Da, Kriti Bhargava, Chu-Chun Chang, **Eviatar Bach**, Eugenia Kalnay, and Travis Sluka. “Advances in Coupled Data Assimilation, Ensemble Forecasting, and Assimilation of Altimeter Observations.” *CLIVAR Exchanges* 79 (November 2020): 27–30. [https://doi.org/10.36071/clivar.79.2020](https://doi.org/10.36071/clivar.79.2020)
 
 **Bach, Eviatar**, Eran A. Raizman, Rich Vanderwal, Paolete Soto, Marcelo Chaffer, Greg Keefe, Roman Pogranichniy, and Horacio Bach. “Immunogenicity of PtpA secreted during *Mycobacterium avium* ssp. *paratuberculosis* infection in cattle.” *Veterinary Immunology and Immunopathology* 198 (April 1, 2018): 1–5. [https://doi.org/10.1016/j.vetimm.2018.02.006](https://doi.org/10.1016/j.vetimm.2018.02.006).
 
