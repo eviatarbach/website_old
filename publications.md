@@ -65,13 +65,9 @@ Shortlisted for [2020 IACS-IGS Graham Cogley Award](https://www.cambridge.org/co
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ## Other
 
+Ashesh Chattopadhyay, Ebrahim Nabizadeh, **Eviatar Bach**, and Pedram Hassanzadeh. “Deep Learning-Augmented Data Assimilation for Next-Generation Predictive Models.” *SIAM News Blog* (December 2021). [https://sinews.siam.org/Details-Page/deep-learning-augmented-data-assimilation-for-next-generation-predictive-models](https://sinews.siam.org/Details-Page/deep-learning-augmented-data-assimilation-for-next-generation-predictive-models)
+
 Sreenivas Pentakota, Sagar V. Gade, Suryachandra A. Rao, Cheng Da, Kriti Bhargava, Chu-Chun Chang, **Eviatar Bach**, Eugenia Kalnay, and Travis Sluka. “Advances in Coupled Data Assimilation, Ensemble Forecasting, and Assimilation of Altimeter Observations.” *CLIVAR Exchanges* 79 (November 2020): 27–30. [https://doi.org/10.36071/clivar.79.2020](https://doi.org/10.36071/clivar.79.2020)
-
-**Bach, Eviatar**, Eran A. Raizman, Rich Vanderwal, Paolete Soto, Marcelo Chaffer, Greg Keefe, Roman Pogranichniy, and Horacio Bach. “Immunogenicity of PtpA secreted during *Mycobacterium avium* ssp. *paratuberculosis* infection in cattle.” *Veterinary Immunology and Immunopathology* 198 (April 1, 2018): 1–5. [https://doi.org/10.1016/j.vetimm.2018.02.006](https://doi.org/10.1016/j.vetimm.2018.02.006).
-
-Bach, Horacio, Melissa Richard-Greenblatt, **Eviatar Bach**, Marcelo Chaffer, Wanika Lai, Greg Keefe, and Douglas J. Begg. “Protein Kinase G Induces an Immune Response in Cows Exposed to *Mycobacterium avium* Subsp. *paratuberculosis*.” *BioMed Research International*, 2018. [https://doi.org/10.1155/2018/1450828](https://doi.org/10.1155/2018/1450828). 
-
-[Full text](assets/1450828.pdf)
 
 **Bach, Eviatar**, and Daniel T. Holmes. “Reqscan: An open source solution for laboratory requisition scanning, archiving and retrieval.” *Journal of Pathology Informatics* 6, no. 1 (2015): 3. [https://doi.org/10.4103/2153-3539.150256](https://doi.org/10.4103/2153-3539.150256).
 
