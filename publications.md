@@ -8,6 +8,9 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAA
 
 ## Selected
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+Yingzuo Qin, Yan Li, Ru Xu, Chengcheng Hou, Alona Armstrong, **Eviatar Bach**, Yang Wang, and Bojie Fu. “Impacts of 319 wind farms on surface temperature and vegetation in the United States.” *Environmental Research Letters*, 2022. [https://doi.org/10.1088/1748-9326/ac49ba](https://doi.org/10.1088/1748-9326/ac49ba).
+
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ![](/assets/enoc.png){:height="150px"}
 **Bach, Eviatar**, Safa Mote, V. Krishnamurthy, A. Surjalal Sharma, Michael Ghil, and Eugenia Kalnay. “Ensemble Oscillation Correction (EnOC): Leveraging Oscillatory Modes to Improve Forecasts of Chaotic Systems.” *Journal of Climate*, 2021. [https://doi.org/10.1175/JCLI-D-20-0624.1](https://doi.org/10.1175/JCLI-D-20-0624.1).
 
