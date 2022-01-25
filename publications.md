@@ -66,6 +66,7 @@ Shortlisted for [2020 IACS-IGS Graham Cogley Award](https://www.cambridge.org/co
 [Selected glaciology article for the period 2015–2019, Canadian National Committee for the International Union of Geodesy and Geophysics](http://cgu-ugc.ca/cguwp/wp-content/media/CNC-IUGG-2019-Quad-Report-complete.pdf)
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="34137384" />
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+
 ## Other
 
 Ashesh Chattopadhyay, Ebrahim Nabizadeh, **Eviatar Bach**, and Pedram Hassanzadeh. “Deep Learning-Augmented Data Assimilation for Next-Generation Predictive Models.” *SIAM News Blog* (December 2021). [https://sinews.siam.org/Details-Page/deep-learning-augmented-data-assimilation-for-next-generation-predictive-models](https://sinews.siam.org/Details-Page/deep-learning-augmented-data-assimilation-for-next-generation-predictive-models)
