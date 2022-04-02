@@ -7,6 +7,9 @@ title: Publications
 See also my [Google Scholar](https://scholar.google.com/citations?user=qeCEIpwAAAAJ) and [ORCID](https://orcid.org/0000-0002-9725-0203).
 
 ## Selected
+
+Ashesh Chattopadhyay, Mustafa Mustafa, Pedram Hassanzadeh, **Eviatar Bach**, and Karthik Kashinath. “Towards physics-inspired data-driven weather forecasting: integrating data assimilation with a deep spatial-transformer-based U-NET in a case study with ERA5.” *Geoscientific Model Development*, 2022. [https://doi.org/10.5194/gmd-15-2221-2022](https://doi.org/10.5194/gmd-15-2221-2022).
+
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 Yingzuo Qin, Yan Li, Ru Xu, Chengcheng Hou, Alona Armstrong, **Eviatar Bach**, Yang Wang, and Bojie Fu. “Impacts of 319 wind farms on surface temperature and vegetation in the United States.” *Environmental Research Letters*, 2022. [https://doi.org/10.1088/1748-9326/ac49ba](https://doi.org/10.1088/1748-9326/ac49ba).
 
